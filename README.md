@@ -10,15 +10,13 @@ I’m constantly looking after improving my skills and challenging myself to lea
 
 ### :man_technologist: Work 
 
- I'm currently working as a software developer at [Lixar IT](https://lixar.com/), building cool stuff using Node.js, React, Docker and other amazing tools.
-
-You can find more details about my professional career on my [LinkedIn profile](https://www.linkedin.com/in/brunotalanski). 
+ I'm currently working as a software developer at [Lixar IT](https://lixar.com/), building cool stuff using Node.js, React, Docker and other amazing tools. You can find more details about my professional career on my [LinkedIn profile](https://www.linkedin.com/in/brunotalanski). 
 
 ## :computer: Projects
 
 ### Mentoring
 If you are new to software development, feel free to contact me for free mentoring sessions. Things I can help you with:
-- General programming subjects: OOP, design paterns, etc
+- General programming subjects: OOP, design patterns, etc
 - Specific programming languagues: mainly PHP and javascript
 - Cloud computing: hosting apps, AWS and Digital Ocean services, etc
 - Remote work, work experience in another country, language skills development (English/Portuguese) 
