@@ -6,13 +6,13 @@ My first contact with code was when I created my first website during the golden
 
 I’m constantly looking after improving my skills and challenging myself to learn something new.  I'm very passionate about new tech and all things releated.
 
-### Work 
+---
 
-:man_technologist: I'm currently working as a software developer at [Lixar IT](https://lixar.com/), building cool stuff using Node.js, React, Docker and other amazing tools.
+### :man_technologist: Work 
+
+ I'm currently working as a software developer at [Lixar IT](https://lixar.com/), building cool stuff using Node.js, React, Docker and other amazing tools.
 
 You can find more details about my professional career on my [LinkedIn profile](https://www.linkedin.com/in/brunotalanski). 
-
----
 
 ## :computer: Projects
 
@@ -23,7 +23,6 @@ If you are new to software development, feel free to contact me for free mentori
 - Cloud computing: hosting apps, AWS and Digital Ocean services, etc
 - Remote work, work experience in another country, language skills development (English/Portuguese) 
 
----
 
 ## Some of my favorite tools
 ![](https://img.shields.io/static/v1?label=OS&message=Ubuntu&color=<COLOR>)
@@ -61,7 +60,6 @@ If you are new to software development, feel free to contact me for free mentori
 ### Contact
 - [LinkedIn](https://www.linkedin.com/in/brunotalanski)
 - [Twitter](https://twitter.com/brunotalanski)
-- 
 <!--
 **btalanski/btalanski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
