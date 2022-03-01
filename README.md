@@ -4,7 +4,7 @@ My name is Bruno Talanski, I'm a software developer from Brazil and currently li
 
 My first contact with code was when I created my first website during the golden age of GeoCities using Microsoft Frontpage. Besides coding, gaming and other nerdy stuff were my favorite activities growing up (and still are to this date).
 
-I’m constantly looking after improving my skills and challenging myself to learn something new.  I'm very passionate about new tech and all things releated.
+I’m constantly looking after improving my skills and challenging myself to learn something new.  I'm very passionate about tech and all things releated.
 
 ---
 
