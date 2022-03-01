@@ -21,6 +21,7 @@ If you are new to software development, feel free to contact me for free mentori
 - Cloud computing: hosting apps, AWS and Digital Ocean services, etc
 - Remote work, work experience in another country, language skills development (English/Portuguese) 
 
+I'm also listed as a mentor at [Coading Coach](https://mentors.codingcoach.io/?name=Bruno+Talanski)
 
 ## Some of my favorite tools
 ![](https://img.shields.io/static/v1?label=OS&message=Ubuntu&color=<COLOR>)
